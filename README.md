@@ -6,3 +6,9 @@ The **Global Economic Dashboard** project aims to provide a comprehensive visual
 
 ## Dataset Used
 - <a href="https://github.com/ersanputra3445/Dashboard-Economic/blob/main/Global%20Economy%20Indicators.csv">Global Economic Data</a>
+
+## Tools Used
+
+- Tableau (for interactive dashboard creation)  
+- Visual Studio (for data preprocessing and cleaning)  
+- GitHub (for version control and collaboration)
