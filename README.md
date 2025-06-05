@@ -12,3 +12,11 @@ The **Global Economic Dashboard** project aims to provide a comprehensive visual
 - Tableau (for interactive dashboard creation)  
 - Visual Studio (for data preprocessing and cleaning)  
 - GitHub (for version control and collaboration)
+
+Key Questions (KPIs)
+- How has GDP growth varied among ASEAN countries from 1970 to 2020?
+- Which ASEAN countries experienced the highest inflation rates in recent years?
+- How does the unemployment rate differ across ASEAN member states?
+- What are the trade balance trends (export vs import) in ASEAN countries?
+
+
