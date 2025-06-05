@@ -1,2 +1,5 @@
-# Dashboard-Economic
-This analysis explores the relationship between trade openness and economic growth using Tableau. By combining export, import, and GDP data, it provides insights into how global trade integration impacts a country's economic performance through interactive visualizations.
+# Global-Economic-Dashboard (Interactive Data Dashboard using Tableau)
+
+## Project Objective
+
+The **Global Economic Dashboard** project aims to provide a comprehensive visual summary of key economic indicators such as GDP, inflation, unemployment, and trade balance across various countries. The goal is to help users and policymakers identify trends and make data-driven decisions.
