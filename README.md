@@ -33,8 +33,7 @@ The **Global Economic Dashboard** project aims to provide a comprehensive visual
 ## Project Process
 
 1. **Data Collection**
-   - Sourced macroeconomic data from World Bank, IMF, and ASEANstats websites.
-   - Gathered time-series data on GDP, inflation, unemployment, and trade from 2018 to 2023.
+   - Sourced macroeconomic data from open data jabar websites.
 
 2. **Data Cleaning & Preparation**
    - Used Excel to filter, normalize, and unify data format across different countries.
@@ -42,7 +41,7 @@ The **Global Economic Dashboard** project aims to provide a comprehensive visual
 
 3. **Dashboard Development**
    - Imported cleaned data into Tableau.
-   - Created multiple dashboards for GDP trends, inflation heatmaps, trade balance comparisons, and recovery post-COVID.
+   - Created multiple dashboards for GDP trends, inflation heatmaps, trade balance comparisons.
    - Designed user-friendly filters (e.g., by year or country) for interactivity.
 
 4. **Publishing**
