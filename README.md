@@ -23,6 +23,11 @@ The **Global Economic Dashboard** project aims to provide a comprehensive visual
 ## Live Demo or Dashboard Link
 
 ➡️ [View Dashboard ]([https://public.tableau.com/app/profile/yourprofile/viz/GlobalEconomicDashboard/Overview](https://github.com/ersanputra3445/Dashboard-Economic/blob/main/Picture5.png))
-➡️ [View Dashboard ](https://github.com/ersanputra3445/Dashboard-Economic/blob/main/Picture7.png))
+## Project Files
+
+- `Global_Economic_Dashboard.twb` – Tableau dashboard file  
+- `Economic_Data.xlsx` – Raw dataset and preprocessed Excel file  
+- `README.md` – Project documentation  
+- `screenshots/` – Contains snapshots of the dashboard  
 
 
